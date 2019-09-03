@@ -1,4 +1,4 @@
-HOSTNAME=codewars
+HOSTNAME=edabit
 
 CONTAINERS=node dotnet jvm java python ruby alt rust julia systems dart crystal ocaml swift haskell objc go lua esolangs chapel nim r erlang elixir powershell gradle solidity
 
